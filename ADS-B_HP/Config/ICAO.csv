@@ -1,0 +1,234 @@
+﻿ICAO1,ICAO2,ICAO3,ICAO4,ICAO5,机尾号,国家代码,国家（英文）,国家（中文）
+7,0,0,0,,YA,AF,Afghanistan,阿富汗
+5,0,0,1,0,,AL,Albania,阿尔巴尼亚
+0,2,4,,,7T,DZ,Algeria,阿尔及利亚
+,,,,,,AD,Andorra,安道尔
+0,2,2,0,,D2,AO,Angola,安哥拉
+,,,,,VP-A,AI,Anguilla,安圭拉
+0,3,1,2,0,V2,AG,Antigua and Barbuda,安提瓜岛和巴布达岛
+8,2,2,6,,A6,AE,Arab Emirates,阿联酋
+14,0,,,,LQ/LV,AR,Argentina,阿根廷
+6,0,0,0,0,EK,AM,Armenia,亚美尼亚
+,,,,,P4,AW,Aruba,阿鲁巴
+7,3,,,,VH,AU,Australia,澳大利亚
+4,1,0,,,OE,AT,Austria,奥地利
+6,0,0,0,2,4K,AZ,Azerbaijan,阿塞拜疆
+0,2,5,0,,C6,BS,Bahamas,巴哈马群岛
+8,2,2,4,,A9C,BH,Bahrain,巴林
+7,0,0,2,,S2,BD,Bangladesh,孟加拉国
+0,2,5,2,0,8P,BB,Barbados,巴巴多斯岛
+5,0,2,0,0,EW,BY,Belarus,白俄罗斯
+4,1,1,,,OO,BE,Belgium,比利时
+0,2,5,3,0,V3,BZ,Belize,伯利兹城
+0,2,2,4,0,TY,BJ,Benin,贝宁湾
+,,,,,VP-B/VQ-B,BM,Bermuda,百慕大群岛
+6,2,0,0,0,A5,BT,Bhutan,不丹
+14,2,2,4,,CP,BO,Bolivia,玻利维亚
+,,,,,,BQ,Bonaire Saint Eustatius and Saba,博内尔岛 Saint Eustatius Saba
+5,0,2,3,0,E7,BIH,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那
+0,0,6,0,0,A2,BW,Botswana,博茨瓦纳
+,,,,,,BV,Bouvet Island,布维岛
+14,1,,,,PP/PR/PT/PU,BR,Brazil,巴西
+8,2,2,5,0,V8,BN,Brunei,文莱
+4,1,2,,,LZ,BG,Bulgaria,保加利亚
+0,2,3,4,,XT,BF,Burkina Faso,布基纳法索
+0,0,6,2,,9U,BI,Burundi,布隆迪
+7,0,1,6,,XU,KH,Cambodia,柬埔寨
+0,0,6,4,,TJ,CM,Cameroon,喀麦隆
+12,0,,,,C/CF,CA,Canada,加拿大
+0,2,2,6,0,D4,CV,Cape Verde,佛得角
+,,,,,VP-C,KY,Cayman Islands,开曼群岛
+0,1,5,4,,TL,CF,Central African Republic,中非共和国
+0,2,0,4,,TT,TD,Chad,乍得湖
+14,2,0,0,,CC,CL,Chile,智利
+7,2,,,,B,CN,China(PRC),中国
+7,2,,,,B,HK,China Hong Kong,中国香港
+7,2,,,,B,MO,China Macau,中国澳门
+7,2,,,,B,TW,Taiwan(Province of China),中国台湾
+,,,,,,CC,Cocos Islands,科科斯群岛
+0,2,5,4,,HJ/HK,CO,Colombia,哥伦比亚
+0,0,6,5,0,D6,KM,Comoros,科摩罗
+0,0,6,6,,TN,CG,Congo,刚果
+0,2,1,4,,9Q,CD,Congo,刚果民主共和国
+9,0,0,1,0,E5,CK,Cook Islands,库克群岛
+0,2,5,6,,TI,CR,Costa Rica,哥斯达黎加
+0,0,7,0,,TU,CI,Cote dlvoire（Ivory Coast）,科特迪瓦（象牙海岸）
+5,0,0,1,3,9A,HR,Croatia,克罗地亚
+0,2,6,0,,CU,CU,Cuba,古巴
+,,,,,,CW,Curacao,库拉索岛
+4,3,1,0,0,5B,CY,Cyprus,塞浦路斯
+4,2,3,,,OK,CZ,Czech Republic,捷克共和国
+,,,,,,CS,Czechoslovakia,捷克斯洛伐克
+4,1,3,,,OY,DK,Denmark,丹麦
+0,2,3,0,0,J2,DJ,Djibouti,吉布提
+,,,,,J7,DM,Dominica,多米尼加
+0,3,0,4,,HI,DO,Dominican Republic,多明尼加共和国
+14,2,0,4,,HC,EC,Ecuador,厄瓜多尔
+0,0,2,,,SU,EG,Egypt,埃及
+0,2,6,2,,YS,SV,El Salvador,萨尔瓦多
+0,1,0,2,,3C,GQ,Equatorial Guinea,赤道几内亚
+2,0,0,2,0,E3,ER,Eritrea,厄立特里亚
+5,0,2,1,0,ES,EE,Estonia,爱沙尼亚
+0,1,0,0,,ET,ET,Ethiopia,埃塞俄比亚
+,,,,,VP-F,FK,Falkland Islands (Malvinas),福克兰群岛（Malvinas）
+,,,,,,FO,Faroe Islands,法罗群岛
+12,2,1,0,,DQ,FJ,Fiji,斐济
+4,1,4,,,OH,FI,Finland,芬兰
+3,2,,,,F,FR,France,法国
+,,,,,,GF,French Guiana,法属圭亚那
+,,,,,,PF,French Polynesia,法属波利尼西亚
+0,0,7,6,,TR,GA,Gabon,加蓬
+0,2,3,2,,C5,GM,Gambia,冈比亚
+5,0,2,4,0,4L,GE,Georgia,格鲁吉亚共和国
+,,,,,,DD,German Democratic Republic,德意志民主共和国
+3,3,,,,D,DE,Germany,德国
+0,1,0,4,,9G/9GR,GH,Ghana,加纳
+,,,,,VP-G,GI,Gibraltar,直布罗陀
+4,1,5,,,SX,GR,Greece,希腊
+,,,,,,GL,Greenland,格陵兰岛
+0,3,1,4,0,J3,GD,Grenada,格林纳达
+,,,,,,GP,Guadeloupe,瓜德罗普岛
+0,2,6,4,,TG,GT,Guatemala,危地马拉
+,,,,,2,GG,Guernsey,根西岛
+0,1,0,6,,3X,GN,Guinea,几内亚
+0,1,1,0,0,J5,GW,Guinea-Bissau,几内亚比绍
+0,2,6,6,,8R,GY,Guyana,圭亚那
+0,2,7,0,,HH,HT,Haiti,海地
+0,2,7,2,,HR,HN,Honduras,洪都拉斯
+4,1,6,,,HA,HU,Hungary,匈牙利
+4,3,1,4,,TF,IS,Iceland,冰岛
+8,0,,,,VT,IN,India,印度
+8,2,4,,,PK,ID,Indonesia,印度尼西亚
+7,0,6,,,EP,IR,Iran,伊朗
+7,0,5,,,YI,IQ,Iraq,伊拉克
+4,3,1,2,,EI/EJ,IE,Ireland,爱尔兰
+,,,,,M,IM,Isle of Man,马恩岛
+7,0,7,,,4X,IL,Israel,以色列
+3,0,,,,I,IT,Italy,意大利
+0,2,7,6,,6Y,JM,Jamaica,牙买加
+8,1,,,,JA,JP,Japan,日本
+,,,,,,JE,Jersey,泽西
+7,1,0,,,JY,JO,Jordan,约旦
+6,2,0,3,0,UP,KZ,Kazakhstan,哈萨克斯坦
+0,1,1,4,,5Y,KE,Kenya,肯尼亚
+12,2,1,6,0,,KI,Kiribati,基里巴斯
+7,0,0,6,,9K,KW,Kuwait,科威特
+6,0,0,1,0,EX,KG,Kyrgyzstan,吉尔吉斯斯坦
+7,0,1,0,,RDPL,LA,Laos,老挝
+5,0,0,2,3,YL,LV,Latvia,拉脱维亚
+7,1,1,,,OD,LB,Lebanon,黎巴嫩
+0,1,1,2,0,7P,LS,Lesotho,莱索托
+0,1,2,0,,A8,LR,Liberia,利比里亚
+0,0,3,,,5A,LY,Libya,利比亚
+,,,,,HB,LI,Liechtenstein,列支敦士登
+5,0,0,3,3,LY,LT,Lithuania,立陶宛
+4,3,2,0,0,LX,LU,Luxembourg,卢森堡
+5,0,2,2,0,Z3,MK,Macedonia (Former Yugoslav Republic),马其顿（前南斯拉夫共和国）
+0,1,2,4,,5R,MG,Madagascar,马达加斯加
+0,1,3,0,,7Q,MW,Malawi,马拉维
+7,1,2,,,9M,MY,Malaysia,马来西亚
+0,1,3,2,0,8Q,MV,Maldives,马尔代夫
+0,1,3,4,,TZ,ML,Mali,马里
+4,3,2,2,0,9H,MT,Malta,马耳他
+9,0,0,0,0,V7,MH,Marshall Islands,马绍尔群岛
+,,,,,,MQ,Martinique,马提尼克
+0,1,3,6,0,5T,MR,Mauritania,毛里塔尼亚
+0,1,4,0,0,3B,MU,Mauritius,毛里求斯
+0,3,2,,,XA/XB/XC,MX,Mexico,墨西哥
+6,2,0,1,0,V6,FSM,Micronesia,密克罗尼西亚联邦
+5,0,0,4,3,ER,MD,Moldova,摩尔多瓦共和国
+4,3,2,4,0,3A,MC,Monaco,摩纳哥
+6,2,0,2,0,JU,MN,Mongolia,蒙古
+5,0,2,6,0,4O,ME,Montenegro,黑山
+,,,,,VP-M,MS,Montserrat,蒙特塞拉特岛
+0,0,4,,,CN,MA,Morocco,摩洛哥
+0,0,0,6,,C9,MZ,Mozambique,莫桑比克
+7,0,0,4,,XY/XZ,MM,Myanmar,缅甸
+2,0,0,1,0,V5,NA,Namibia,纳米比亚
+12,2,1,2,0,C2,NR,Nauru,瑙鲁
+7,0,1,2,,9N,NP,Nepal,尼泊尔
+4,2,0,,,PH,NL,Netherlands,荷兰
+,,,,,PJ,AN,Netherlands Antilles,荷属安的列斯群岛
+,,,,,,NC,New Caledonia,新喀里多尼亚
+,,,,,,PG,New Guinea,新几内亚
+12,2,0,,,ZK/ZL/ZM,NZ,New Zealand,新西兰
+0,3,0,0,,YN,NI,Nicaragua,尼加拉瓜
+0,1,4,2,,5U,NE,Niger,尼日尔
+0,1,4,4,,5N,NG,Nigeria,尼日利亚
+,,,,,,NF,Norfolk Island,诺福克岛
+7,0,4,,,P,KP,North Korea,朝鲜
+,,,,,,MP,Northern Mariana Islands,北马里亚纳群岛
+4,1,7,,,LN,NO,Norway,挪威
+7,0,1,4,0,A4O,OM,Oman,阿曼
+7,1,4,,,AP,PK,Pakistan,巴基斯坦
+6,2,0,4,0,T8,PW,Palau,帕劳
+0,3,0,2,,HP,PA,Panama,巴拿马
+8,2,3,0,,P2,PNG,Papua New Guinea,巴布亚新几内亚
+14,2,1,0,,ZP,PY,Paraguay,巴拉圭
+14,2,1,4,,OB,PE,Peru,秘鲁
+7,1,3,,,RP,PH,Philippines,菲律宾
+4,2,1,,,SP,PL,Poland,波兰
+4,2,2,,,CR/CS,PT,Portugal,葡萄牙
+0,1,5,2,0,A7,QA,Qatar,卡塔尔
+,,,,,,RH,Rhodesia,罗得西亚
+4,2,4,,,YR,RO,Romania,罗马尼亚
+1,,,,,RA,RU,Russian Federation,俄罗斯
+0,1,5,6,,9XR,RW,Rwanda,卢旺达
+,,,,,VQ-H,SH,Saint Helena Ascension and Tristan da Cunha,圣赫勒拿/阿森松
+,,,,,V4,KN,Saint Kitts and Nevis,圣基茨和尼维斯
+9,0,0,2,0,5W,WS,Samoa,萨摩亚
+5,0,0,0,0,T7,SM,San Marino,圣马力诺
+0,2,3,6,0,S9,ST,Sao Tome and Principe,圣多美和普林西比
+7,0,2,,,HZ,SA,Saudi Arabia,沙特阿拉伯
+0,1,6,0,,6V/6W,SN,Senegal,塞内加尔
+4,3,0,,,YU,RS,Serbia,塞尔维亚
+0,1,6,4,0,S7,SC,Seychelles,塞舌尔
+0,1,6,6,0,9L,SL,Sierra Leone,塞拉利昂
+7,1,5,,,9V,SG,Singapore,新加坡
+,,,,,,SX,Sint Maarten (Dutch part),Sint Maarten（荷兰语的部分）
+5,0,0,5,3,OM,SK,Slovakia,斯洛伐克
+5,0,0,6,3,S5,SI,Slovenia,斯洛文尼亚
+8,2,2,7,0,H4,SB,Solomon Islands,所罗门群岛
+0,1,7,0,,6O,SO,Somalia,索马里
+0,0,1,,,ZS/ZT/ZU,ZA,South Africa,南非
+,,,,,,GS,South Georgia and the South Sandwich Islands,南乔治亚岛和南威奇群岛
+7,0,3,,,HL,KR,South Korea,韩国
+3,1,,,,EC,ES,Spain,西班牙
+7,1,6,,,4R,LK,Sri Lanka,斯里兰卡
+12,2,1,4,0,J6,LC,St. Lucia,圣卢西亚
+0,2,7,4,0,J8,VC,St. Vincent and the Grenadines,圣文森特和格林纳丁斯
+0,1,7,4,,ST,SD,Sudan,苏丹
+0,3,1,0,,PZ,SR,Suriname,苏里南
+0,1,7,2,0,3DC,SZ,Swaziland,斯威士兰
+4,2,5,,,SE,SE,Sweden,瑞典
+4,2,6,,,HB,CH,Switzerland,瑞士
+7,1,7,,,YK,SY,Syria,叙利亚
+5,0,2,5,0,EY,TJ,Tajikistan,塔吉克斯坦
+0,2,0,0,,5H,TZ,Tanzania,坦桑尼亚
+8,2,0,,,HS,TH,Thailand,泰国
+,,,,,,TL,Timor-Leste,东帝汶
+0,2,1,0,,5V,TG,Togo,多哥
+12,2,1,5,0,A3,TO,Tonga,汤加
+0,3,0,6,,9Y,TT,Trinidad and Tobago,特立尼达和多巴哥
+0,0,5,,,TS,TN,Tunisia,突尼斯
+4,2,7,,,TC,TR,Turkey,土耳其
+6,0,0,1,2,EZ,TM,Turkmenistan,土库曼斯坦
+,,,,,VQ-T,TC,Turks and Caicos Islands,特克斯和凯科斯
+,,,,,,TV,Tuvalu,图瓦卢
+,,,,,,SU,USSR,苏联
+0,1,5,0,,5X,UG,Uganda,乌干达
+5,0,1,,,UR,UA,Ukraine,乌克兰
+4,0,,,,G,GB,United Kingdom,英国
+10,,,,,N,US,United States of America,美国
+14,2,2,0,,CX,UY,Uruguay,乌拉圭
+5,0,0,7,3,UK,UZ,Uzbekistan,乌兹别克斯坦
+12,2,2,0,0,YJ,VU,Vanuatu (New Hebrides),瓦努阿图（新赫布里底群岛）
+,,,,,,VA,Vatican City State (Holy See),梵蒂冈城国（圣见）
+0,3,3,,,YV,VE,Venezuela,委内瑞拉
+8,2,1,,,XV,VN,Viet Nam,越南
+,,,,,VP-L,VG,Virgin (British) Islands,维尔京群岛
+,,,,,,EH,Western Sahara,西撒哈拉
+8,2,2,0,,7O,YE,Yemen,也门
+5,0,2,2,0,,YU,Yugoslavia,南斯拉夫
+0,2,1,2,,9J,ZM,Zambia,赞比亚
+0,0,0,4,0,Z,ZW,Zimbabwe,津巴布韦
